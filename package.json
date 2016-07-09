@@ -1,0 +1,19 @@
+{
+	"name": "as-type",
+	"version": "1.0.0",
+	"description": "Convert undetermined data types to the type you want",
+	"author": "Shaun Harrison (@shnhrrsn)",
+	"license": "MIT",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shnhrrsn/as-type.git"
+	},
+	"keywords": [
+		"type",
+		"cast",
+		"caster",
+		"casting",
+		"typecast"
+	]
+}
