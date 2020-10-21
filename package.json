@@ -24,6 +24,7 @@
     "build": "rm -fr lib && tsc",
     "commit": "git-cz",
     "prepack": "yarn build",
+    "release": "standard-version",
     "test": "ts-node node_modules/ava/cli.js"
   },
   "config": {
@@ -43,6 +44,7 @@
     "lint-staged": "^10.4.2",
     "prettier": "^2.1.2",
     "prettier-plugin-packagejson": "^2.2.6",
+    "standard-version": "^9.0.0",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.3"
   }
