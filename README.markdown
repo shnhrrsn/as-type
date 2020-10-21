@@ -1,3 +1,10 @@
+<p align="center">
+<a href="https://github.com/shnhrrsn/as-type/actions"><img src="https://github.com/shnhrrsn/as-type/workflows/test/badge.svg" alt="Build Status"></a>
+<a href="https://www.npmjs.com/package/as-type"><img src="https://img.shields.io/npm/dt/as-type.svg" alt="Total Downloads"></a>
+<a href="https://www.npmjs.com/package/as-type"><img src="https://img.shields.io/npm/v/as-type.svg" alt="Latest Version"></a>
+<a href="./LICENSE"><img src="https://img.shields.io/npm/l/as-type.svg" alt="License"></a>
+</p>
+
 # as-type
 
 Convert undetermined data types to the type you want.
