@@ -1,6 +1,6 @@
 {
   "name": "as-type",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Convert undetermined data types to the type you want",
   "keywords": [
     "type",
