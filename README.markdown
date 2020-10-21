@@ -4,14 +4,14 @@ Convert undetermined data types to the type you want.
 
 ### Installation
 
-```
+```sh
 npm install --save as-type
 ```
 
 ## Usage
 
-```
-var as = require('as-type')
+```js
+const as = require('as-type')
 
 console.log(as.boolean('true')) // true
 console.log(as.boolean('t')) // true
